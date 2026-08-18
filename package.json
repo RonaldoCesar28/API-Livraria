@@ -8,9 +8,9 @@
     "dev": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Ronaldo Cesar Alves Nogueira",
   "license": "ISC",
-  "description": "",
+  "description": "api-livraria",
   "devDependencies": {
     "nodemon": "^3.1.14"
   },
